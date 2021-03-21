@@ -1,0 +1,6 @@
+name: "RedBot v3 cogs repo metadata validation"
+description: "Validate the format of the info.json files in your cogs repo"
+author: "Issy"
+runs:
+  using: "docker"
+  image: "Dockerfile"

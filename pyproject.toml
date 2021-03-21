@@ -1,0 +1,7 @@
+[tool.red-info-validation]
+foo = "bar"
+
+[tool.red-info-validation.repo]
+foo = "bar"
+
+[tool.red-info-validation.cogs]
